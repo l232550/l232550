@@ -18,15 +18,6 @@ const tooba = {
 };
 ```
 
-### 💻 Operating Systems 
-<p>
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img alt="ChromeOS" src="https://img.shields.io/badge/ChromeOS-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
-</p>
-
-
 
 ### 🛠️ Tech Stack  
 <p>
@@ -72,6 +63,14 @@ const tooba = {
   <img alt="Access" src="https://img.shields.io/badge/Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white" />
 </p>
 
+
+### 💻 Operating Systems 
+<p>
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="ChromeOS" src="https://img.shields.io/badge/ChromeOS-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
+</p>
 
 
 ### 📫 Get in Touch  
