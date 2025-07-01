@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Engineer+%7C+Skilled+in+C%2B%2B%2C+learning+Java+and+Python;Always+Learning+and+Building&font=Fira+Code&color=007ACC&width=800" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Engineer;Skilled+in+C%2B%2B;Learning+Java+and+Python&font=Fira+Code&color=007ACC&width=600" alt="Typing SVG">
 </p>
+
 
 ---
 
