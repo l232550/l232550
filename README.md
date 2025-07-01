@@ -105,10 +105,9 @@ const tooba = {
 </p>
 
 
-
-### 💡 Random Dev Quote
+🌅 Daily Inspiration
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Inspiring Scenery" width="500"/>
 </p>
 
 
