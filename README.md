@@ -3,20 +3,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Engineer;Skilled+in+C%2B%2B;Learning+Java+and+Python&font=Fira+Code&color=007ACC&width=600&pause=800" alt="Typing SVG">
 </p>
 
-<!-- GitHub Follow Button -->
-<p align="center">
-  <a href="https://github.com/l232550">
-    <img src="https://img.shields.io/github/followers/l232550?label=Follow&style=social" alt="GitHub Follow" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=l232550&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
 
 ### ☁️ Peace be upon you, I'm Tooba Nadeem  
-> *Fueled by curiosity and coffee ☕ — learning every day, from everywhere.*  
-> I enjoy blending aesthetics, intuition, and innovation with each line of code.   
-> I'm always curious and evolving with the tech world.  
+> *Fueled by curiosity and coffee ☕ — learning every day, from everywhere.*     
+> I am a Software Engineering student currently pursuing my BS at FAST National University of Computer and Emerging Sciences (NUCES).
+> I'm passionate about creating meaningful software solutions and contributing to the open-source community.
+
 
 ```javascript
 const tooba = {
@@ -28,19 +20,15 @@ const tooba = {
 };
 ```
 
-I am a Software Engineering student currently pursuing my BS at National University of Computer and Emerging Sciences (NUCES). I'm passionate about creating meaningful software solutions and contributing to the open-source community.
 
----
-
-### 🎯 Interests & Goals
-- **Web Development**: Creating responsive and user-friendly web applications
+### 🎯 My Interests:
+- **Software Architecture**: Learning to design scalable and maintainable systems
 - **Open Source Contribution**: Contributing to projects that benefit the community
 - **Machine Learning**: Exploring AI/ML to solve real-world problems
-- **Software Architecture**: Learning to design scalable and maintainable systems
+- **Web Development**: Creating responsive and user-friendly web applications
 
----
 
-### 💻 Operating Systems
+### 💻 Operating Systems I have used: 
 <p>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
@@ -48,7 +36,7 @@ I am a Software Engineering student currently pursuing my BS at National Univers
   <img alt="ChromeOS" src="https://img.shields.io/badge/ChromeOS-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
 </p>
 
----
+
 
 ### 🛠️ Tech Stack  
 <p>
@@ -69,7 +57,7 @@ I am a Software Engineering student currently pursuing my BS at National Univers
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
----
+
 
 ### 🧰 Tools & Platforms  
 <p>
@@ -94,21 +82,23 @@ I am a Software Engineering student currently pursuing my BS at National Univers
   <img alt="Access" src="https://img.shields.io/badge/Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white" />
 </p>
 
----
+
 
 ### 🏆 Achievements & Recognition
 - 🎓 Currently pursuing BS in Software Engineering at NUCES
-- 💻 Developed multiple full-stack web applications
 - 📊 Created interactive data visualization dashboards
 - 🤖 Built machine learning models for real-world applications
 - 🌱 Active contributor to open-source projects
 
----
+
 
 ### 📫 Get in Touch  
 <p>
   <a href="https://www.linkedin.com/in/tooba-nadeem/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tooba--Nadeem-blue?style=flat-square&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn Connect" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/tooba-nadeem/">
+    <img alt="LinkedIn Follow" src="https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:toobaanadeem@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-toobaanadeem@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white" />
