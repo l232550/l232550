@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Engineer;Skilled+in+C%2B%2B;Learning+Java+and+Python&font=Fira+Code&color=007ACC&width=600&pause=800" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Engineer;Skilled+in+C%2B%2B&font=Fira+Code&color=007ACC&width=600&pause=800" alt="Typing SVG">
 </p>
 
 
@@ -77,9 +77,6 @@ const tooba = {
 ### 📫 Get in Touch  
 <p>
   <a href="https://www.linkedin.com/in/tooba-nadeem/">
-    <img alt="LinkedIn Connect" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/tooba-nadeem/">
     <img alt="LinkedIn Follow" src="https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:toobaanadeem@gmail.com">
@@ -92,10 +89,6 @@ const tooba = {
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=l232550&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l232550&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=l232550&theme=tokyonight" alt="GitHub Streak Stats"/>
 </p>
 
 
@@ -118,15 +111,6 @@ const tooba = {
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </p>
-
-
-
-### 👀 Profile Views & Followers
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=l232550&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/l232550?label=Followers&style=social" alt="GitHub Followers" />
-</p>
-
 
 
 <p align="center">
