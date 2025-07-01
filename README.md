@@ -43,15 +43,19 @@
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <img alt="Mermaid" src="https://img.shields.io/badge/Mermaid-0d1117?style=flat-square&logo=mermaid&logoColor=white" />
   <img alt="Microsoft Visio" src="https://img.shields.io/badge/Visio-2B579A?style=flat-square&logo=microsoft-visio&logoColor=white" />
-  <img alt="Word" src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white" />
-  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-  <img alt="PowerPoint" src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white" />
-  <img alt="Access" src="https://img.shields.io/badge/Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img alt="Gradio" src="https://img.shields.io/badge/Gradio-17A2B8?style=flat-square&logo=gradio&logoColor=white" />
+  <img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black" />
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
   <img alt="MS SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
   <img alt="VMware" src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" />
   <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
   <img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" />
+  <img alt="Word" src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white" />
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+  <img alt="PowerPoint" src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white" />
+  <img alt="Access" src="https://img.shields.io/badge/Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white" />
 </p>
 
 ---
