@@ -6,17 +6,15 @@
 
 ### ☁️ Peace be upon you, I'm Tooba Nadeem  
 > *Fueled by curiosity and coffee ☕ — learning every day, from everywhere.*     
-> a Software Engineering student currently pursuing my BS at FAST National University of Computer and Emerging Sciences (NUCES).
-> passionate about creating meaningful software solutions and contributing to the open-source community.
+- a Software Engineering student currently pursuing my BS at FAST National University of Computer and Emerging Sciences (NUCES).
+- passionate about creating meaningful software solutions and contributing to the open-source community.
 
 
 ```javascript
 const tooba = {
   role: "Software Engineering Student @ NUCES",
-  focus: ["Full Stack Development", "Machine Learning", "Open Source"],
-  passion: "Building innovative solutions that make a difference",
-  currentlyLearning: ["Advanced Java", "Python", "Web3"],
-  funFact: "I believe great code is like poetry - elegant and meaningful"
+  currentlyLearning: ["Java", "Python"],
+  funFact: "My dad says I can do anything."
 };
 ```
 
