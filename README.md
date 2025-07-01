@@ -3,12 +3,50 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Engineer;Skilled+in+C%2B%2B;Learning+Java+and+Python&font=Fira+Code&color=007ACC&width=600&pause=800" alt="Typing SVG">
 </p>
 
+<!-- GitHub Follow Button -->
+<p align="center">
+  <a href="https://github.com/l232550">
+    <img src="https://img.shields.io/github/followers/l232550?label=Follow&style=social" alt="GitHub Follow" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=l232550&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
-### ☁️ Peace be upon you, I’m Tooba Nadeem  
+### ☁️ Peace be upon you, I'm Tooba Nadeem  
 > *Fueled by curiosity and coffee ☕ — learning every day, from everywhere.*  
 > I enjoy blending aesthetics, intuition, and innovation with each line of code.   
-> I’m always curious and evolving with the tech world.  
+> I'm always curious and evolving with the tech world.  
+
+```javascript
+const tooba = {
+  role: "Software Engineering Student @ NUCES",
+  focus: ["Full Stack Development", "Machine Learning", "Open Source"],
+  passion: "Building innovative solutions that make a difference",
+  currentlyLearning: ["Advanced Java", "Python", "Web3"],
+  funFact: "I believe great code is like poetry - elegant and meaningful"
+};
+```
+
+I am a Software Engineering student currently pursuing my BS at National University of Computer and Emerging Sciences (NUCES). I'm passionate about creating meaningful software solutions and contributing to the open-source community.
+
+---
+
+### 🎯 Interests & Goals
+- **Web Development**: Creating responsive and user-friendly web applications
+- **Open Source Contribution**: Contributing to projects that benefit the community
+- **Machine Learning**: Exploring AI/ML to solve real-world problems
+- **Software Architecture**: Learning to design scalable and maintainable systems
+
+---
+
+### 💻 Operating Systems
+<p>
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="ChromeOS" src="https://img.shields.io/badge/ChromeOS-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
+</p>
 
 ---
 
@@ -58,6 +96,15 @@
 
 ---
 
+### 🏆 Achievements & Recognition
+- 🎓 Currently pursuing BS in Software Engineering at NUCES
+- 💻 Developed multiple full-stack web applications
+- 📊 Created interactive data visualization dashboards
+- 🤖 Built machine learning models for real-world applications
+- 🌱 Active contributor to open-source projects
+
+---
+
 ### 📫 Get in Touch  
 <p>
   <a href="https://www.linkedin.com/in/tooba-nadeem/">
@@ -70,31 +117,56 @@
 
 ---
 
-### 🌟 Projects Highlight  
-| Project | Description | Link |
-|--------|-------------|------|
-| **Mini Instagram** | A mini social media web app clone with basic feed and post functionality | [Repo Link](https://github.com/l232550/mini-instagram) |
-| **Probability and Statistics Dashboard** | Interactive visual dashboard using Streamlit for probability and stats learning | [Repo Link](https://github.com/l232550/probability-and-statistics-dashboard) |
-| **ML Crop Prediction** | Machine learning model to predict suitable crops based on environmental factors | [Repo Link](https://github.com/l232550/ml-crop-prediction) |
+### 🌟 Featured Projects  
+| Project | Description | Technologies | Stars | Link |
+|---------|-------------|-------------|-------|------|
+| **Mini Instagram** | A mini social media web app clone with basic feed and post functionality | HTML, CSS, JavaScript | ![Stars](https://img.shields.io/github/stars/l232550/mini-instagram?style=social) | [View Repo](https://github.com/l232550/mini-instagram) |
+| **Probability and Statistics Dashboard** | Interactive visual dashboard using Streamlit for probability and stats learning | Python, Streamlit, Pandas | ![Stars](https://img.shields.io/github/stars/l232550/probability-and-statistics-dashboard?style=social) | [View Repo](https://github.com/l232550/probability-and-statistics-dashboard) |
+| **ML Crop Prediction** | Machine learning model to predict suitable crops based on environmental factors | Python, Scikit-learn, ML | ![Stars](https://img.shields.io/github/stars/l232550/ml-crop-prediction?style=social) | [View Repo](https://github.com/l232550/ml-crop-prediction) |
 
 ---
 
-### 📊 Stats  
+### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=l232550&theme=dark&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=l232550&theme=dark" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=l232550&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l232550&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=l232550&theme=tokyonight" alt="GitHub Streak Stats"/>
 </p>
 
 ---
 
-### 🏆 Trophy Cabinet  
+### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=l232550&theme=tokyonight" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=l232550&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
 
-### 👣 Visitor Count  
+### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=l232550.l232550" alt="Visitor Count" />
+  <img src="https://github-profile-trophy.vercel.app/?username=l232550&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 💡 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
+
+---
+
+### 👀 Profile Views & Followers
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=l232550&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/l232550?label=Followers&style=social" alt="GitHub Followers" />
+</p>
+
+---
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/l232550">Tooba Nadeem</a> - Let's connect and build something amazing together! ⭐️</i>
 </p>
