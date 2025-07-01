@@ -6,8 +6,8 @@
 
 ### ☁️ Peace be upon you, I'm Tooba Nadeem  
 > *Fueled by curiosity and coffee ☕ — learning every day, from everywhere.*     
-> I am a Software Engineering student currently pursuing my BS at FAST National University of Computer and Emerging Sciences (NUCES).
-> I'm passionate about creating meaningful software solutions and contributing to the open-source community.
+> a Software Engineering student currently pursuing my BS at FAST National University of Computer and Emerging Sciences (NUCES).
+> passionate about creating meaningful software solutions and contributing to the open-source community.
 
 
 ```javascript
@@ -20,15 +20,7 @@ const tooba = {
 };
 ```
 
-
-### 🎯 My Interests:
-- **Software Architecture**: Learning to design scalable and maintainable systems
-- **Open Source Contribution**: Contributing to projects that benefit the community
-- **Machine Learning**: Exploring AI/ML to solve real-world problems
-- **Web Development**: Creating responsive and user-friendly web applications
-
-
-### 💻 Operating Systems I have used: 
+### 💻 Operating Systems 
 <p>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
@@ -84,14 +76,6 @@ const tooba = {
 
 
 
-### 🏆 Achievements & Recognition
-- 🎓 Currently pursuing BS in Software Engineering at NUCES
-- 📊 Created interactive data visualization dashboards
-- 🤖 Built machine learning models for real-world applications
-- 🌱 Active contributor to open-source projects
-
-
-
 ### 📫 Get in Touch  
 <p>
   <a href="https://www.linkedin.com/in/tooba-nadeem/">
@@ -105,16 +89,6 @@ const tooba = {
   </a>
 </p>
 
----
-
-### 🌟 Featured Projects  
-| Project | Description | Technologies | Stars | Link |
-|---------|-------------|-------------|-------|------|
-| **Mini Instagram** | A mini social media web app clone with basic feed and post functionality | HTML, CSS, JavaScript | ![Stars](https://img.shields.io/github/stars/l232550/mini-instagram?style=social) | [View Repo](https://github.com/l232550/mini-instagram) |
-| **Probability and Statistics Dashboard** | Interactive visual dashboard using Streamlit for probability and stats learning | Python, Streamlit, Pandas | ![Stars](https://img.shields.io/github/stars/l232550/probability-and-statistics-dashboard?style=social) | [View Repo](https://github.com/l232550/probability-and-statistics-dashboard) |
-| **ML Crop Prediction** | Machine learning model to predict suitable crops based on environmental factors | Python, Scikit-learn, ML | ![Stars](https://img.shields.io/github/stars/l232550/ml-crop-prediction?style=social) | [View Repo](https://github.com/l232550/ml-crop-prediction) |
-
----
 
 ### 📊 GitHub Analytics
 <p align="center">
@@ -126,28 +100,28 @@ const tooba = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=l232550&theme=tokyonight" alt="GitHub Streak Stats"/>
 </p>
 
----
+
 
 ### 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=l232550&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
----
+
 
 ### 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=l232550&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
----
+
 
 ### 💡 Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </p>
 
----
+
 
 ### 👀 Profile Views & Followers
 <p align="center">
@@ -155,7 +129,7 @@ const tooba = {
   <img src="https://img.shields.io/github/followers/l232550?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
----
+
 
 <p align="center">
   <i>⭐️ From <a href="https://github.com/l232550">Tooba Nadeem</a> - Let's connect and build something amazing together! ⭐️</i>
