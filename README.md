@@ -107,8 +107,8 @@ const tooba = {
 
 🌅 Always remeber
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDR3NnlnbjRqcGNoZHY0ZHV0cGg1Y2Z4cGdtaWV6NXFra3F6NG9mdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZeBEDzb6uxbWYUxZYA/giphy.gif" alt="Inspiring Scenery" width="500"/>
-  <h6>'Allah doesn't burden a soul beyond that it can bear.'</h6>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDR3NnlnbjRqcGNoZHY0ZHV0cGg1Y2Z4cGdtaWV6NXFra3F6NG9mdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZeBEDzb6uxbWYUxZYA/giphy.gif" alt="Inspiring Scenery" width="200"/>
+  <p align="center"><h6>'Allah doesn't burden a soul beyond that it can bear.'</h6></p>
 </p>
 
 
