@@ -91,13 +91,6 @@ const tooba = {
 </p>
 
 
-
-### 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=l232550&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-
 ### 🌅 Always Remember
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDR3NnlnbjRqcGNoZHY0ZHV0cGg1Y2Z4cGdtaWV6NXFra3F6NG9mdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZeBEDzb6uxbWYUxZYA/giphy.gif" alt="Inspiring Scenery" width="200"/>
