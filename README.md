@@ -84,13 +84,6 @@ const tooba = {
 </p>
 
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=l232550&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l232550&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-
 
 ### 📈 Contribution Graph
 <p align="center">
