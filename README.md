@@ -6,14 +6,12 @@
 
 ### ☁️ Peace be upon you, I'm Tooba Nadeem  
 > *Fueled by curiosity and coffee ☕ — learning every day, from everywhere.*     
-- a Software Engineering student currently pursuing my BS at FAST National University of Computer and Emerging Sciences (NUCES).
-- passionate about creating meaningful software solutions and contributing to the open-source community.
 
 
 ```javascript
 const tooba = {
-  role: "Software Engineering Student @ NUCES",
-  currentlyLearning: ["Java", "Python"],
+  role: "Multipassionate Software Engineering Junior @ FAST NUCES",
+  currentlyLearning: "Data Science and Statistics",
   funFact: "My dad says I can do anything."
 };
 ```
@@ -34,6 +32,7 @@ const tooba = {
   <img alt="Assembly" src="https://img.shields.io/badge/Assembly-x86-blue?style=flat-square" />
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
@@ -47,7 +46,6 @@ const tooba = {
   <img alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <img alt="Mermaid" src="https://img.shields.io/badge/Mermaid-0d1117?style=flat-square&logo=mermaid&logoColor=white" />
-  <img alt="Microsoft Visio" src="https://img.shields.io/badge/Visio-2B579A?style=flat-square&logo=microsoft-visio&logoColor=white" />
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
   <img alt="Gradio" src="https://img.shields.io/badge/Gradio-17A2B8?style=flat-square&logo=gradio&logoColor=white" />
@@ -57,10 +55,7 @@ const tooba = {
   <img alt="VMware" src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" />
   <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
   <img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" />
-  <img alt="Word" src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white" />
-  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-  <img alt="PowerPoint" src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white" />
-  <img alt="Access" src="https://img.shields.io/badge/Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white" />
+  <img alt="MAMP" src="https://img.shields.io/badge/MAMP-02749C?style=flat-square&logo=mamp&logoColor=white" />
 </p>
 
 
