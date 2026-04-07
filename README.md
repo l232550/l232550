@@ -15,7 +15,7 @@ const tooba = {
   funFact: "My dad says I can do anything."
 };
 ```
-
+### I have worked with these tools and languages during my BS:
 
 ### 🛠️ Tech Stack  
 <p>
@@ -56,6 +56,11 @@ const tooba = {
   <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
   <img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" />
   <img alt="MAMP" src="https://img.shields.io/badge/MAMP-02749C?style=flat-square&logo=mamp&logoColor=white" />
+  <img alt="Hoppscotch" src="https://img.shields.io/badge/Hoppscotch-31C48D?style=flat-square&logo=hoppscotch&logoColor=white" />
+  <img alt="ClickUp" src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white" />
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white" />
+  <img alt="Git Bash" src="https://img.shields.io/badge/Git%20Bash-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 
