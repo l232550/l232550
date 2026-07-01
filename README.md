@@ -10,7 +10,7 @@
 
 ```javascript
 const tooba = {
-  role: "Multipassionate Software Engineering Junior @ FAST NUCES",
+  role: "Multipassionate Software Engineering Senior @ FAST NUCES",
   currentlyLearning: "Data Science and Statistics",
   funFact: "My dad says I can do anything."
 };
