@@ -11,7 +11,7 @@
 ```javascript
 const tooba = {
   role: "Multipassionate Software Engineering Senior @ FAST NUCES",
-  currentlyLearning: "Data Science and Statistics",
+  currentlyLearning: "Data Science, GIS and Remote Sensing",
   funFact: "My dad says I can do anything."
 };
 ```
