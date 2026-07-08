@@ -15,52 +15,74 @@ const tooba = {
   funFact: "My dad says I can do anything."
 };
 ```
-### I have worked with these things during my BS:
+### My Technical Stack
 
 ### 🛠️ Programming Languages 
 <p>
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="PL/SQL" src="https://img.shields.io/badge/PL%2FSQL-315665?style=flat-square&logo=oracle&logoColor=white" />
   <img alt="Shell" src="https://img.shields.io/badge/Shell-D1D1D1?style=flat-square&logo=gnu-bash&logoColor=black" />
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
   <img alt="Assembly" src="https://img.shields.io/badge/Assembly-x86-blue?style=flat-square" />
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+### 🌐 Web Technologies
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 </p>
 
+### 🗄️ Databases
+<p>
+  <img alt="MS SQL Server" src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  <img alt="Oracle Database" src="https://img.shields.io/badge/Oracle%20Database-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
 
+### 📊 Data Science & Machine Learning
+<p>
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
+  <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+  <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21F?style=flat-square&logo=huggingface&logoColor=black" />
+</p>
 
-### 🧰 Tools & Platforms  
+### 💻 Development Tools
 <p>
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img alt="Mermaid" src="https://img.shields.io/badge/Mermaid-0d1117?style=flat-square&logo=mermaid&logoColor=white" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img alt="Gradio" src="https://img.shields.io/badge/Gradio-17A2B8?style=flat-square&logo=gradio&logoColor=white" />
-  <img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black" />
-  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
-  <img alt="MS SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-  <img alt="VMware" src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" />
-  <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
-  <img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" />
-  <img alt="MAMP" src="https://img.shields.io/badge/MAMP-02749C?style=flat-square&logo=mamp&logoColor=white" />
-  <img alt="Hoppscotch" src="https://img.shields.io/badge/Hoppscotch-31C48D?style=flat-square&logo=hoppscotch&logoColor=white" />
-  <img alt="ClickUp" src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white" />
-  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
   <img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white" />
-  <img alt="Git Bash" src="https://img.shields.io/badge/Git%20Bash-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+### ⚙️ Collaboration
+<p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img alt="ClickUp" src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white" />
+  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
+</p>
+
+### 🌐 Servers & Utilities
+<p>
+  <img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" />
+  <img alt="WAMP" src="https://img.shields.io/badge/WAMP-FF6600?style=flat-square" />
+  <img alt="MAMP" src="https://img.shields.io/badge/MAMP-02749C?style=flat-square&logo=mamp&logoColor=white" />
+  <img alt="VMware" src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" />
+  <img alt="Hoppscotch" src="https://img.shields.io/badge/Hoppscotch-31C48D?style=flat-square&logo=hoppscotch&logoColor=white" />
 </p>
 
 
